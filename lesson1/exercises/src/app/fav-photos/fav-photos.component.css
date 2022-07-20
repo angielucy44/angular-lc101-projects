@@ -1,9 +1,12 @@
 h3 {
-   color: brown;
+   color: blue;
 }
 
 img {
-
+   img {
+      width: 40%;
+      height: auto;
+   }
 }
 
 .photos {

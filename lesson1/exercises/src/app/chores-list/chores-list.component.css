@@ -4,9 +4,10 @@
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
  }
 
- h3{
-    text-decoration-line: underline;
- }
+ h3 {
+   text-align: center;
+  text-decoration-line: underline;
+}
 
  li{
     font-style: italic;

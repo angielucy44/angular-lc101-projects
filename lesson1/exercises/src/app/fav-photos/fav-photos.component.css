@@ -12,3 +12,8 @@ img {
 .photos {
    text-align: center;
 }
+
+h3 {
+   text-align: center;
+  text-decoration-line: underline;
+}
